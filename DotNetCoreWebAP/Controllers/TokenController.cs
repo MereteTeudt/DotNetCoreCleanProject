@@ -26,6 +26,9 @@ namespace WebAPI.Controllers
             [HttpPost]
 
             public dynamic Post([FromBody]LoginViewModel login)
+            {
+
+            }
         }
     }
 }
