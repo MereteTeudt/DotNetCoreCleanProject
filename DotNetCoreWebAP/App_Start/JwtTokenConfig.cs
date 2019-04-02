@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebAPI.App_Start
+namespace CoreAPI.WebAPI.App_Start
 {
     public class JwtTokenConfig
     {

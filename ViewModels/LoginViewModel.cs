@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ViewModels
+namespace CoreAPI.ViewModels
 {
     public class LoginViewModel: IBaseViewModel
     {

@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "DotNetCoreWebAP\WebAPI.csproj", "{B951BAC5-057B-467F-9333-C54A47C8CD96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.WebAPI", "DotNetCoreWebAP\CoreAPI.WebAPI.csproj", "{B951BAC5-057B-467F-9333-C54A47C8CD96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{19CB6F6B-C602-40F9-8E6B-1BDBC9F6CBA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Commons", "Commons\CoreAPI.Commons.csproj", "{19CB6F6B-C602-40F9-8E6B-1BDBC9F6CBA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{08B0368F-578A-45C5-913A-F1E88B44DD00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Interfaces", "Interfaces\CoreAPI.Interfaces.csproj", "{08B0368F-578A-45C5-913A-F1E88B44DD00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maps", "Maps\Maps.csproj", "{DBEDFE10-DC94-4208-9DFC-6A3E477ACF41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Maps", "Maps\CoreAPI.Maps.csproj", "{DBEDFE10-DC94-4208-9DFC-6A3E477ACF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{4CB4AB3F-3093-4081-9459-5D06168ADBCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Models", "Models\CoreAPI.Models.csproj", "{4CB4AB3F-3093-4081-9459-5D06168ADBCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{6C362C43-57DB-4CD8-AF0E-EC78E4599183}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Repositories", "Repositories\CoreAPI.Repositories.csproj", "{6C362C43-57DB-4CD8-AF0E-EC78E4599183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{22CE4235-AA30-47DB-ADF7-8796FDBA293F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.Services", "Services\CoreAPI.Services.csproj", "{22CE4235-AA30-47DB-ADF7-8796FDBA293F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{34E2C7B1-1120-49E5-84B6-64A4271A0FEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI.ViewModels", "ViewModels\CoreAPI.ViewModels.csproj", "{34E2C7B1-1120-49E5-84B6-64A4271A0FEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
